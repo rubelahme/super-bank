@@ -10,3 +10,9 @@ body {
 #last-area {
   display: none;
 }
+.balance {
+  margin: 0 20px;
+  border-radius: 10px;
+  color: white;
+  padding: 20px;
+}
